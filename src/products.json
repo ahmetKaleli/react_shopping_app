@@ -1,0 +1,95 @@
+[
+    {
+        "id":"0",
+        "name":"Dunk Low LX NBHD",
+        "price":"219",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d015d68b-1318-4c9d-bc79-9ac67c01cae4/dunk-low-60-nbhd-ayakkab%C4%B1s%C4%B1-FSR49l.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+        
+    },
+
+    {
+        "id":"1",
+        "name":" Zoom CMFT 2",
+        "price":"124",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b08506f0-c52c-438d-80de-980655c3a10b/air-jordan-1-zoom-cmft-2-ayakkab%C4%B1s%C4%B1-H7KPRn.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+
+    {
+        "id":"2",
+        "name":"Air Jordan 1",
+        "price":"187",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/37c110f4-39e4-4831-9729-abb725257f77/air-jordan-1-ayakkab%C4%B1-qks9Qz.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+
+    {
+        "id":"3",
+        "name":"Nike Phantom GX 2 Elite",
+        "price":"264",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/acab406b-b0e6-4210-a41f-69037f4f9138/phantom-gx-2-elite-fg-d%C3%BC%C5%9F%C3%BCk-bilekli-krampon-bxntVZ.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+
+    {
+        "id":"4",
+        "name":"Nike Phantom GX 2 Elite LV8",
+        "price":"196",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2168c8d1-d7be-4679-b603-25883f09d83b/phantom-gx-2-elite-lv8-fg-d%C3%BC%C5%9F%C3%BCk-bilekli-krampon-h0Brv4.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+
+    {
+        "id":"5",
+        "name":"LeBron Witness 8",
+        "price":"215",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a061bdb2-f1ab-4e52-99f6-87f48868577e/lebron-witness-8-basketbol-ayakkab%C4%B1s%C4%B1-Hc4PFF.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+
+    {
+        "id":"6",
+        "name":"Nike Air Force 1 '07",
+        "price":"172",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9fbba642-e349-42f1-808d-ef46605ec492/air-force-1-07-ayakkab%C4%B1s%C4%B1-z7xz8s.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+
+    {
+        "id":"7",
+        "name":"Nike Air Force 1 Wild",
+        "price":"193",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd999a29-9b61-4baa-a375-af7277bb9ff9/air-force-1-wild-ayakkab%C4%B1s%C4%B1-ZgF5PJ.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+
+    {
+        "id":"8",
+        "name":"Nike P-6000",
+        "price":"221",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c98b3cdf-f085-4f54-9779-522bb43aab83/p-6000-ayakkab%C4%B1-wzRD2x.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+    {
+        "id":"9",
+        "name":"Gamma Force",
+        "price":"261",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5b5cd478-9beb-4754-8b5f-47b72055026b/gamma-force-ayakkab%C4%B1-H8LqfB.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+    {
+        "id":"10",
+        "name":"Gorge Green",
+        "price":"183",
+        "img":"https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/b45a4e42-f2c7-4a2e-9f13-4c15e0d90c5b/kad%C4%B1nlar-i%C3%A7in-dunk-low-gorge-green-fj2260-002-lansman-tarihi.jpg",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    },
+    {
+        "id":"11",
+        "name":"Nike Air Max Furyosa",
+        "price":"145",
+        "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2a9b6c73-f8af-4bbb-99c2-d962d07ee128/air-max-furyosa-ayakkab%C4%B1s%C4%B1-Gb2SMn.png",
+        "attribute":"Inspired by the original model first released in 1985, the Air Jordan 1 Low may be considered well-known but new records are always possible, offering a simple and classic style. With its iconic design that fits perfectly with any style, this shoe ensures that you are always stylish."
+    }
+]

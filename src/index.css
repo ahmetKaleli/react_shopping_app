@@ -1,0 +1,148 @@
+.app{
+  width: 1060px;
+  margin: 0 auto;
+} 
+body {
+  margin: 0;
+  padding: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #032338;
+    padding: 10px;
+    color: white;
+}
+
+.link {
+    display: flex;
+  }
+
+.header-r{
+    display: flex;
+}
+
+
+.basket span{
+    width: 50px;
+    height: 80px;
+}
+
+.header-r input {
+    margin-left: auto; 
+    border-radius: 20px;
+    height: 30px;
+    text-align: center;
+    margin-inline: 20px;
+  }
+
+.footer{
+  background-color: #032338; /* Footer arkaplan rengi */
+  color: #fff; /* Yazı rengi */
+  padding: 20px; /* Footer içeriği ile kenarlar arasındaki boşluk */
+  text-align: center; /* Yazıları ortala */
+  padding: 10px;
+  bottom: 0;
+  width: 100%;
+}
+
+.container{
+  display: flex;
+  flex-wrap:wrap;
+  gap: 20px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.container img{
+  width: 250px;
+  height: 250px;
+  cursor: pointer;
+}
+
+.container h3{
+  cursor: pointer;
+}
+
+@media (width: 827px) {
+  .container img {
+      width: 100%;
+  }
+}
+
+.actions button{
+ 
+  color: white; /* Yazı rengi */
+  padding: 10px 20px; /* Yatay ve dikey iç kenar boşluğu */
+  font-size: 16px; /* Yazı boyutu */
+  border: none; /* Kenarlık yok */
+  border-radius: 5px; /* Köşe yuvarlama */
+  cursor: pointer; /* İmleç şekli */
+  transition: background-color 0.3s ease; /* Geçiş efekti */
+}
+
+.a-l{
+  background-color: #af4c4c;
+  float:left 
+}
+
+.a-r{
+  background-color: #4CAF50; /* Arka plan rengi */
+  float: right;
+}
+
+.detail{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.detail img{
+  width: 250px;
+  height: 250px;
+}
+.basket-container {
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.basket-container h3 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.basket-container .total {
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: right;
+  color: #179b17;
+}
+
+.basket-reset-btn {
+  background: #e36868;
+  height: 40px;
+  padding: 0 20px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.basket-item {
+  padding-bottom: 10px;
+  font-size: 17px;
+}
+
+.basket-item span {
+  color: #999;
+}
+
+.basket-item img {
+  width: 50px;
+  height: 50px;
+}
